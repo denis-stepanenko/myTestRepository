@@ -1,2 +1,2 @@
 # myTestRepository
-This is a test repository
+Это тестовый репозиторий
